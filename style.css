@@ -1,0 +1,63 @@
+body{
+  margin:0;
+}
+
+h1 {
+  font-size: 60px;
+  text-align: center;
+  border-bottom: 1px solid gray;
+  padding: 20px;
+  padding-top: 5px;
+  width: 400px;
+  margin: 0 auto;
+  margin-top: 20px;
+  display: block;
+  height: 70px;
+  background: #FFFF;
+  border: 1px solid black;
+}
+
+h2 {
+  font-size: 30px;
+  text-align: center;
+}
+
+a {
+  color:black;
+  text-decoration: none;
+}
+
+.team-list ul{
+  border:1px solid black;
+  width:100px;
+  margin:0;
+  margin-left: 30px;
+  padding:20px;
+  padding-left: 40px;
+}
+
+.main-text{
+  display: grid;
+  grid-template-columns: 150px 1fr;
+  margin-top: 40px;
+}
+
+.page-intro{
+  margin-left:70px;
+  margin-right: 40px;
+  padding: 20px;
+  border: 1px solid black;
+}
+
+.team-logo {
+  text-align: center;
+  margin-top: 40px;
+}
+
+.team-info {
+  margin:80px;
+}
+
+.team-player {
+  margin-left: 80px;
+}
